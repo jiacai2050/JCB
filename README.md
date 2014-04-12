@@ -4,6 +4,7 @@ JCB
  
 功能Feature
 =========
+- 本项目需要引用Evernote的[library](https://github.com/evernote/evernote-sdk-android#using-the-sdk-in-your-app)
 - 通讯录与短信备份
 - 备份文件可以保存为csv、xml、excel格式
 - 短信可以按照时间或对话两种形式导出
