@@ -4,8 +4,7 @@ JCB
  
 功能Feature
 =========
-- 本项目需要引用Evernote的[library](https://github.com/evernote/evernote-sdk-android#using-the-sdk-in-your-app)
-- 通讯录与短信备份
+- 通讯录与短信备份，暂不支持彩信
 - 备份文件可以保存为csv、xml、excel格式
 - 短信可以按照时间或对话两种形式导出
 - 可以导入已经备份的文件
@@ -14,6 +13,7 @@ JCB
 
 使用说明Usage 
 =========
+- 本项目需要引用Evernote的[library](https://github.com/evernote/evernote-sdk-android#using-the-sdk-in-your-app)
 - 本软件运行在Android2.0系统以上
 - 本软件可以在百度应用上下载[备份专家](http://as.baidu.com/a/item?docid=3029345)
 - ![](http://hiphotos.baidu.com/wisegame/pic/item/2cc2d5628535e5dd51fdff9e77c6a7efcf1b629a.jpg)
