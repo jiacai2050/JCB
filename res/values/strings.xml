@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">备份专家</string>
+    <string name="menu_settings">设置</string>
+    <string name="title_activity_main">备份专家</string>
+    <string name="exportSMS">短信导出</string>
+    <string name="importSMS">短信导入</string>
+    <string name="exportContact">通信录导出</string>
+    <string name="importContact">通信录导入</string>
+    <string name="item0">欢迎使用备份专家，本软件可以备份您的短信与联系人。同时软件还支持备份文件的导入。为了您更好的使用本软件，请您注意以下几点：</string>
+    <string name="item1">1.通信录、短信导出默认的路径是sdcard的根文件夹</string>
+    <string name="item2">2.Evernote导出的笔记在用户默认笔记本中</string>
+    <string name="item3">3.导出文件的格式可以在"菜单->设置"中选择</string>
+    <string name="item4">4.目前短信导出格式有：XML、Excel表格</string>
+    <string name="item5">5.目前联系人导出格式有：XML、CSV、Excel表格</string>
+    <string name="ok">确认</string>
+    <string name="quit">取消</string>
+    <string name="aboutus1">软件版本：1.0.0</string>
+    <string name="aboutus2">邮箱：<a href="mailto:jiacai2050@gmail.com?subject=JCB意见反馈">jiacai2050@gmail.com</a></string>
+    <string name="aboutus3">微博：http://weibo.com/liujiacai</string>
+    <string name="aboutus4">©2014 All Rights Reserved</string>
+    <string name="error">您的手机没有安装SD卡，不能使用本软件。</string>
+
+    <string name="smstype">导出短信时的格式为</string>
+    <string name="contacttype">导出通信录时的格式为</string>
+    
+    <string name="xml">XML</string>
+    <string name="excel">Excel表格</string>
+    <string name="csv">CSV</string>
+    
+    
+    <string name="notshow">下次不再提示</string>
+    <string name="tip">在使用本软件前请先查看用户指南(菜单->用户指南)</string>
+    
+</resources>
